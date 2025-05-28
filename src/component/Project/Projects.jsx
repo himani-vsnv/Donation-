@@ -22,7 +22,7 @@ const projectsData = [
   },
   {
     id: 4,
-    title: 'Khet',
+    title: 'Agricultuer',
     description: 'Organic farming initiative teaching sustainable agriculture methods based on traditional principles.',
     imageUrl: 'https://images.pexels.com/photos/2749165/pexels-photo-2749165.jpeg?auto=compress&cs=tinysrgb&w=1600'
   },
