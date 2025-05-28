@@ -16,7 +16,7 @@ export const Hero = () => {
       {/* Content Overlay */}
       <div className="relative h-full flex flex-col items-center justify-center text-center px-4 md:px-8 z-10">
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-serif font-bold text-white mb-6 max-w-4xl leading-tight">
-          Experience Peace and Spiritual Growth
+          Hare Krishna Everyone
         </h1>
         <p className="text-xl md:text-2xl text-white font-light max-w-2xl mb-8 leading-relaxed">
           "In the silence of the heart, God speaks. Listen for God's voice in everything, in every person, in every circumstance."
